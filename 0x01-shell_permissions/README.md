@@ -5,3 +5,4 @@ this file contains the files with the answers
 3-new_owner : change ownership
 4-empty : creating an empty file
 5-execute : adding excute permision to file
+6-multiple_permissions: adding multiple permissions
