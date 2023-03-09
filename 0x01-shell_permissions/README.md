@@ -9,4 +9,5 @@ this file contains the files with the answers
 7-everybody : adding x permission to owner group and others
 8-James_Bond : sets the permission to the file hello
 9-John_Doe : set given permission
-10-mirror_permissions : copy permission  
+10-mirror_permissions : copy permision 
+11-directories_permissions :  execute permission to all subdirectories of the current directory 
