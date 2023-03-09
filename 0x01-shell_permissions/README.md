@@ -8,3 +8,4 @@ this file contains the files with the answers
 6-multiple_permissions: adding multiple permissions
 7-everybody : adding x permission to owner group and others
 8-James_Bond : sets the permission to the file hello
+9-John_Doe : set given permission  
