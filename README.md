@@ -1,1 +1,1 @@
-this reposotorie has the answer for the shell task
+this repository has the answers of the tasks of the ALX-program
