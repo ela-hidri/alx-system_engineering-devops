@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# kills 4-to_infinity_and_beyond
+# shellcheck disable=SC2009
+ps -ef | grep ./4-to_infinity_and_beyond | grep -v grep | awk '{print $2}' | xargs kill
