@@ -13,7 +13,7 @@ if __name__ == "__main__":
         writer = csv.writer(file, quoting=csv.QUOTE_ALL)
         for task in todos:
             writer.writerow([task.get('userId'),
-                             user.get('name'),
+                             user.get('username'),
                              task.get('completed'),
                              task.get('title')])
         file.close()
